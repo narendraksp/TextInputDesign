@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:TextFiedEffect.xcodeproj">
+      location = "self:/Users/narendrakumars/Downloads/TextFiedEffect/TextInputDesign.xcodeproj">
    </FileRef>
 </Workspace>

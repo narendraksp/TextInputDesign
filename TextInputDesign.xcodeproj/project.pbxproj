@@ -13,7 +13,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		540AEBDD253FF3A30091C13B /* TextFiedEffect.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = TextFiedEffect.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		540AEBDD253FF3A30091C13B /* TextInputDesign.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = TextInputDesign.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		540AEBE0253FF3A30091C13B /* TextFiedEffect.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TextFiedEffect.h; sourceTree = "<group>"; };
 		540AEBE1253FF3A30091C13B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		540AEBE8253FF3B10091C13B /* TextInputBorderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextInputBorderView.swift; sourceTree = "<group>"; };
@@ -42,7 +42,7 @@
 		540AEBDE253FF3A30091C13B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				540AEBDD253FF3A30091C13B /* TextFiedEffect.framework */,
+				540AEBDD253FF3A30091C13B /* TextInputDesign.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -72,9 +72,9 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		540AEBDC253FF3A30091C13B /* TextFiedEffect */ = {
+		540AEBDC253FF3A30091C13B /* TextInputDesign */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 540AEBE5253FF3A30091C13B /* Build configuration list for PBXNativeTarget "TextFiedEffect" */;
+			buildConfigurationList = 540AEBE5253FF3A30091C13B /* Build configuration list for PBXNativeTarget "TextInputDesign" */;
 			buildPhases = (
 				540AEBD8253FF3A30091C13B /* Headers */,
 				540AEBD9253FF3A30091C13B /* Sources */,
@@ -85,9 +85,9 @@
 			);
 			dependencies = (
 			);
-			name = TextFiedEffect;
+			name = TextInputDesign;
 			productName = TextFiedEffect;
-			productReference = 540AEBDD253FF3A30091C13B /* TextFiedEffect.framework */;
+			productReference = 540AEBDD253FF3A30091C13B /* TextInputDesign.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -105,7 +105,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 540AEBD7253FF3A30091C13B /* Build configuration list for PBXProject "TextFiedEffect" */;
+			buildConfigurationList = 540AEBD7253FF3A30091C13B /* Build configuration list for PBXProject "TextInputDesign" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -118,7 +118,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				540AEBDC253FF3A30091C13B /* TextFiedEffect */,
+				540AEBDC253FF3A30091C13B /* TextInputDesign */,
 			);
 		};
 /* End PBXProject section */
@@ -320,7 +320,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		540AEBD7253FF3A30091C13B /* Build configuration list for PBXProject "TextFiedEffect" */ = {
+		540AEBD7253FF3A30091C13B /* Build configuration list for PBXProject "TextInputDesign" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				540AEBE3253FF3A30091C13B /* Debug */,
@@ -329,7 +329,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		540AEBE5253FF3A30091C13B /* Build configuration list for PBXNativeTarget "TextFiedEffect" */ = {
+		540AEBE5253FF3A30091C13B /* Build configuration list for PBXNativeTarget "TextInputDesign" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				540AEBE6253FF3A30091C13B /* Debug */,
